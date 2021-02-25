@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17683" started-at="2021-02-25T04:08:20Z" finished-at="2021-02-25T04:08:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17683" started-at="2021-02-25T04:08:20Z" finished-at="2021-02-25T04:08:38Z">
+      <class name="test.test">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:test.test@4c762604]" name="LaunchBrowser" is-config="true" duration-ms="14147" started-at="2021-02-25T04:08:20Z" finished-at="2021-02-25T04:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:test.test@4c762604]" name="logintest" duration-ms="3443" started-at="2021-02-25T04:08:34Z" finished-at="2021-02-25T04:08:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:test.test@4c762604]" name="CloseBrowser" is-config="true" duration-ms="74" started-at="2021-02-25T04:08:38Z" finished-at="2021-02-25T04:08:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- test.test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
